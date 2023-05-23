@@ -1,0 +1,19 @@
+nav {
+  background-color: darkred;
+  height: 5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#nav {
+  background-color: darkred;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 3vw;
+}
+
+li {
+  background-color: inherit;
+  list-style: none;
+}

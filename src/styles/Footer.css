@@ -1,0 +1,12 @@
+footer {
+  padding: 2.5vh;
+  background-color: rgb(82, 0, 0);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+footer h3 {
+  background-color: inherit;
+  font-size: 2.5vw;
+}

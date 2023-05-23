@@ -1,0 +1,22 @@
+#inicio {
+  flex-grow: 1;
+}
+
+#presentacion {
+  min-height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.caption {
+  background-color: rgba(104, 104, 255, 0.4);
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

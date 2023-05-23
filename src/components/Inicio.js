@@ -27,8 +27,16 @@ const Inicio = () => {
       <section id="estudios">
         <h2 className="caption">Estudios</h2>
         <div>
-          <h4>Primaria</h4>
-          <h4>Secundaria</h4>
+          <h4>Primaria finalizada.</h4>
+          <p>
+            Escuela N°1 de Moreno Domingo Faustino Sarmiento.
+            <em> 2007 - 2012</em>
+          </p>
+          <h4>Secundaria finalizada con titulo en técnico electrónico.</h4>
+          <p>
+            Técnica N°1 de Merlo Ingeniero Francisco Urondo.
+            <em> 2013 - 2019</em>
+          </p>
         </div>
         <div>
           <h4>HTML</h4>

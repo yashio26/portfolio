@@ -4,7 +4,7 @@ import '../styles/NavBar.css';
 const NavBar = () => {
   return (
     <nav>
-      <ul id="nav">
+      <ul>
         <li>Inicio</li>
         <li>Proyectos</li>
         <li>Contacto</li>

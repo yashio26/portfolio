@@ -4,7 +4,7 @@ import '../styles/Footer.css';
 const Footer = () => {
   return (
     <footer>
-      <h3>Dario Proaño- 2023</h3>
+      <h3>Dario Proaño - 2023</h3>
     </footer>
   );
 };

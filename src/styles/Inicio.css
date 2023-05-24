@@ -17,6 +17,28 @@
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
+  margin: 1rem;
+}
+
+#about {
+  text-align: center;
+}
+
+#estudios {
+  text-align: center;
+}
+
+#estudios ul {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+#estudios div {
+  margin: 1rem;
+}
+
+#projects {
+  text-align: center;
 }

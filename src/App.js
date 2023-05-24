@@ -1,4 +1,5 @@
 import './App.css';
+import './styles/mediaQueries.css';
 import Home from './views/Home';
 
 function App() {

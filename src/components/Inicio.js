@@ -55,6 +55,8 @@ const Inicio = () => {
           <ul>
             <li>Proactivo</li>
             <li>Trabajo en equipo</li>
+            <li>Resiliente</li>
+            <li>Responsable</li>
           </ul>
         </div>
         <div>

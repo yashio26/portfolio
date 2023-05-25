@@ -3,12 +3,23 @@
 }
 
 #presentacion {
+  background-image: url('../Inicio.js\ -\ portfolio\ -\ Visual\ Studio\ Code\ 24_5_2023\ 21_34_27.png');
+  background-size: cover;
+  background-repeat: no-repeat;
   min-height: 95vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+#presentacion h1 {
+  background-color: transparent;
+}
+
+#presentacion h2 em {
+  background-color: transparent;
 }
 
 .caption {
